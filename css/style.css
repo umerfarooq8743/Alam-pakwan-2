@@ -1,0 +1,61 @@
+
+.logo{
+    width: 200px;
+    height: 80px;
+}
+.tt{
+    color: blue;
+    padding: 0px 0px 0px 50px;
+    font-size: 20px;
+}
+.aa{
+    color: green;
+    padding: 0px 0px 0px 3px;  font-size: 20px;
+}
+.bb{
+    color: rgb(235, 17, 53);
+    padding: 0px 0px 0px 3px;  font-size: 20px;
+}.cc{
+    color: rgb(255, 85, 85);
+    padding: 0px 0px 0px 3px;  font-size: 20px;
+}
+.ee{
+    font-family: Georgia, Times, 'Times New Roman', serif;
+}
+.food{
+    padding: 20px 0px;
+}
+.btn{
+    border-radius: 50px;
+   
+}
+
+.map{
+    padding: 20px 0px;
+}
+
+.foot{
+    padding: 20px 0px;
+}
+.ff{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+.gg{
+        font-family:  Geneva, Tahoma, sans-serif;}
+        .copyright{
+            padding: 10px 0px;
+            text-align: center;
+      
+    }
+    .hh{
+        padding: 0px 0px 0px 0px;
+        color: black;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      font-size: 15px;
+    }
+    .ii{  padding: 0px 0px 0px 0px;
+        color: cornsilk;
+       text-align: center;
+      font-size: 17px;
+      font-family: sans-serif;
+
+    }
